@@ -1,3 +1,6 @@
 [submodule "mindcontrol_behav"]
 	path = mindcontrol_behav
 	url = https://github.com/leiferlab/mindcontrol.git
+[submodule "mindcontrol_fluor"]
+	path = mindcontrol_fluor
+	url = https://github.com/leiferlab/mindcontrol.git
