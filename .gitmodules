@@ -4,3 +4,6 @@
 [submodule "mindcontrol_fluor"]
 	path = mindcontrol_fluor
 	url = https://github.com/leiferlab/mindcontrol.git
+[submodule "3dBrain_Labview"]
+	path = 3dBrain_Labview
+	url = https://github.com/JeffreyNguyen/3dBrain_Labview.git
